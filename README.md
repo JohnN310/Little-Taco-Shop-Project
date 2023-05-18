@@ -8,4 +8,7 @@ JohnN310/JohnN310 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Watch tutorial on Youtube.
+## Fun facts about me
+- I love coding 👾
+- I can sing and play guitar quite well 🧑🏻‍🎤
+- I graduated high school in 2022 🧑🏻‍🎓👨🏻‍🎓
